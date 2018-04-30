@@ -1,0 +1,11 @@
+﻿  cPhysicsWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(40): warning C4101: 'v1temp': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(189): warning C4101: 't': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(197): warning C4101: 'v1temp': unreferenced local variable
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_03\physicslibrary\cphysicsworld.cpp(353): warning C4018: '<': signed/unsigned mismatch
+  PhysicsLibrary.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation 2\Physics_Assignment_03\Debug\PhysicsLibrary.dll

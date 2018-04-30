@@ -1,0 +1,7 @@
+6
+Right_Side_Wall.ply Right_Wall
+Left_Side_Wall.ply Left_Wall
+Flat_XZ_Plane.ply Floor
+Front_Side_Wall.ply Front_Wall
+Back_Side_Wall.ply Back_Wall
+Sphereply_xyz_n.ply Ball
